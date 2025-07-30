@@ -1,0 +1,28 @@
+a{
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(255, 200, 138);   
+    padding: 15px 20px;
+}
+li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 40px 40px;
+
+    margin-top: 40px;
+}
+body{
+    font-size: 110%;
+    text-align: center;
+    padding-top: 40%;
+    width:100vw;
+    height: 10vh;
+    
+    background-image: url("https://repository-images.githubusercontent.com/507805831/73e50732-09ff-4fd0-9034-21f0fa5db901");
+    background-size: contain;
+    background-repeat: no-repeat;
+     width: 100vw; /* or any width you want */
+    height: 0;
+    padding-bottom: 56.25%;
+}
